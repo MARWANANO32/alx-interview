@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-""" solutions of task """
+""" solutions of task lock boxes"""
 
 
 def canUnlockAll(boxes):
