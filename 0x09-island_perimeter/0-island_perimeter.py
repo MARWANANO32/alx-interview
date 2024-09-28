@@ -6,7 +6,7 @@ def island_perimeter(grid):
     """
     Return the perimeter of the island.
     The grid represent water by 0 and land 1
- 
+
     """
     width = len(grid[0])
     height = len(grid)
